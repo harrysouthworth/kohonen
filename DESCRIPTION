@@ -1,0 +1,21 @@
+Package: Kohonen
+Type: Package
+Title: Self-organizing Maps for Data Classification
+Version: 1.0.1
+Date: Fri Feb 22 15:13:04 PST 2008
+Author: David Gohel
+Maintainer: Stephen Kaluzny <spk@insightful.com>
+Description: Self-Organizing Maps are cluster analysis, they are
+ searching for groups (clusters) in the data, in such a way that objects
+ belonging to the same cluster are quite similar, whereas objects in
+ different clusters are dissimilar. They are also providing topological
+ informations on the data ; the clusters are organised so that relative
+ distances between groups on the grid reflect dissimilarities between
+ groups in the data. Self-Organizing Maps have been used in several
+ fields: voice recognition, image processing, process control, text
+ analysis, genomic analysis... The package provide various tools for SOM:
+ creation and learning, summary, print methods, groups extraction, plot
+ methods, etc. Numerical and factorial variables are allowed in the data.
+License: GNU GENERAL PUBLIC LICENSE Version 2
+Dialect: S-PLUS
+Packaged: Fri Jan 22 12:19:52 2010; spk

@@ -1,0 +1,21 @@
+authorship              Word counts for books by various author
+biplot.som              Biplot of a som object
+braziltourism           ~~ data name/kind ... ~~
+fitted.som              Extract som Fitted Values
+get.cluster             Extract data and prototype for a specified
+                        class.
+getWeights              Extraction of the prototypes' matrix
+grid                    Creation of a grid
+learn                   Train the network (Online algorithm).
+learnBatch              Train the network (Batch algorithm).
+plot.som                Plot a som object
+plot.som.cluster        plot a som.cluster object
+plot.summary.som.cluster
+                        plot a summary.som.cluster object
+predict.som             Predictions from a som Object
+set.current.case        Set a reference prototype
+setWeights              Set a matrix as the prototypes' matrix
+som                     Creation of a som object
+summary.som             Summary Method for som objects
+summary.som.cluster     Summary Method for som.cluster object.
+update.som              Update a som object
